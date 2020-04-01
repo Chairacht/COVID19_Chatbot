@@ -1,0 +1,16 @@
+[
+  {
+    "id": "756e155f-f9b1-4189-ab61-a05f440c5a4c",
+    "data": [
+      {
+        "text": "locations",
+        "alias": "locations",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
